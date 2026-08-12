@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05020D"/><stop offset=".5" stop-color="#16052B"/><stop offset="1" stop-color="#05020D"/></linearGradient>
+  <linearGradient id="line"><stop stop-color="#A855F7"/><stop offset=".5" stop-color="#E879F9"/><stop offset="1" stop-color="#6D28D9"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#A855F7" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="470" rx="28" fill="url(#bg)" stroke="#7C3AED" stroke-width="2"/>
+<rect x="18" y="18" width="1164" height="434" rx="20" fill="url(#grid)"/>
+<path d="M42 70V42H70M1130 42h28v28M42 400v28h28M1130 428h28v-28" fill="none" stroke="#A855F7" stroke-width="4"/>
+<text x="600" y="110" text-anchor="middle" fill="#C084FC" font-family="monospace" font-size="16" letter-spacing="7">FULL-STACK DEVELOPER • CREATOR • TECH ENTHUSIAST</text>
+<text x="600" y="195" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-weight="800" font-size="66" letter-spacing="3" filter="url(#glow)">⚡ MIKAA WEBSITE</text>
+<text x="600" y="235" text-anchor="middle" fill="#A855F7" font-family="monospace" font-size="17" letter-spacing="5">WEB • BACKEND • AI • DATABASE • CLOUD</text>
+<g transform="translate(425 285)">
+<rect width="350" height="58" rx="29" fill="#0B0615" stroke="#A855F7" stroke-width="2"/>
+<circle cx="32" cy="29" r="7" fill="#22C55E" filter="url(#glow)"/>
+<text x="175" y="36" text-anchor="middle" fill="#F5F3FF" font-family="monospace" font-size="17" font-weight="700" letter-spacing="3">OPEN TO WORK</text>
+</g>
+<g font-family="monospace" font-size="12" font-weight="700" text-anchor="middle">
+<text x="160" y="395" fill="#60A5FA">SOFTWARE</text><text x="360" y="395" fill="#C084FC">BACKEND</text><text x="600" y="395" fill="#F472B6">AI / AUTOMATION</text><text x="840" y="395" fill="#34D399">DATABASE</text><text x="1040" y="395" fill="#FBBF24">SYSTEMS</text>
+</g>
+<path d="M115 410H1085" stroke="url(#line)" stroke-width="2" opacity=".7"/>
+</svg>
