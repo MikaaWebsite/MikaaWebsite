@@ -1,16 +1,32 @@
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,bootstrap&theme=dark" />
 
+<img src="./assets/hero.svg" width="100%" alt="Mikaa Website Hero">
 
-# ⚡ MIKAA WEBSITE
-
-### `FULL-STACK DEVELOPER • CREATOR • TECH ENTHUSIAST`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Building+Websites+%26+Applications;Exploring+Backend+%26+AI;Learning+Something+New+Every+Day" alt="Typing SVG" />
+</div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MikaaWebsite&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MikaaWebsite&label=PROFILE+VIEWS&color=A855F7&style=for-the-badge" alt="Profile Views">
+
+</div>
+
+---
+
+## 🟣 ABOUT ME
+
+> 👋 Hi, I'm **Mikaa** — a developer who enjoys turning ideas into real applications.
+>
+> I’m interested in **Web Development, Backend Systems, Databases, Automation, AI, Cloud and DevOps**.
+>
+> I learn by building, testing, breaking things, fixing them and building again.
+
+---
+
+<div align="center">
+
+<img src="./assets/arsenal.svg" width="100%" alt="Mikaa Tech Arsenal">
 
 </div>
 
@@ -18,19 +34,35 @@
 
 <div align="center">
 
-## 🟣 ABOUT ME
+<img src="./assets/projects.svg" width="100%" alt="Mikaa Project Lab">
 
 </div>
 
+---
+
+## 🧠 DEVELOPMENT MINDSET
+
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  👋 Hi! I'm Mikaa                                            │
-│                                                              │
-│  💻 Developer who loves building things with code            │
-│  🌐 Interested in Web Development & Full-Stack Development   │
-│  🤖 Exploring Automation, AI & Backend Systems               │
-│  🗄️ Working with different databases & APIs                  │
-│  🚀 Always learning and experimenting with new technology     │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+BUILD
+  ↓
+LEARN
+  ↓
+EXPERIMENT
+  ↓
+IMPROVE
+  ↓
+BUILD AGAIN
+```
+
+---
+
+<div align="center">
+
+<img src="./assets/footer.svg" width="100%" alt="Connect with Mikaa">
+
+</div>
+
+<!--
+MikaaWebsite profile README
+Neon Purple Cyberpunk Edition
+-->
