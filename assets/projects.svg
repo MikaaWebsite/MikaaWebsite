@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07030F"/><stop offset=".5" stop-color="#16062A"/><stop offset="1" stop-color="#07030F"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="760" rx="28" fill="url(#bg)" stroke="#7C3AED" stroke-width="2"/>
+<text x="600" y="75" text-anchor="middle" fill="#fff" font-family="Arial" font-size="45" font-weight="800" letter-spacing="9" filter="url(#glow)">PROJECT LAB</text>
+<text x="600" y="108" text-anchor="middle" fill="#C084FC" font-family="monospace" font-size="13" letter-spacing="4">IDEAS → CODE → TEST → DEPLOY</text>
+
+<g font-family="Arial">
+<rect x="55" y="145" width="520" height="245" rx="18" fill="#0B0715" stroke="#60A5FA" stroke-width="2"/>
+<text x="85" y="195" fill="#60A5FA" font-size="18" font-family="monospace" font-weight="700">01 / WEB</text>
+<text x="85" y="235" fill="#fff" font-size="28" font-weight="800">WEB APPLICATIONS</text>
+<text x="85" y="275" fill="#A7A7B5" font-size="17">Modern websites, dashboards,</text>
+<text x="85" y="302" fill="#A7A7B5" font-size="17">landing pages and full-stack apps.</text>
+<text x="85" y="352" fill="#60A5FA" font-family="monospace" font-size="14">REACT • NEXT • NODE • API</text>
+
+<rect x="625" y="145" width="520" height="245" rx="18" fill="#0B0715" stroke="#F472B6" stroke-width="2"/>
+<text x="655" y="195" fill="#F472B6" font-size="18" font-family="monospace" font-weight="700">02 / AUTOMATION</text>
+<text x="655" y="235" fill="#fff" font-size="28" font-weight="800">BOTS &amp; AI SYSTEMS</text>
+<text x="655" y="275" fill="#A7A7B5" font-size="17">Automation, integrations, bots</text>
+<text x="655" y="302" fill="#A7A7B5" font-size="17">and experiments with AI APIs.</text>
+<text x="655" y="352" fill="#F472B6" font-family="monospace" font-size="14">PYTHON • NODE • AI • REST</text>
+
+<rect x="55" y="425" width="520" height="245" rx="18" fill="#0B0715" stroke="#C084FC" stroke-width="2"/>
+<text x="85" y="475" fill="#C084FC" font-size="18" font-family="monospace" font-weight="700">03 / DATABASE</text>
+<text x="85" y="515" fill="#fff" font-size="28" font-weight="800">DATA SYSTEMS</text>
+<text x="85" y="555" fill="#A7A7B5" font-size="17">SQL, NoSQL and cloud-backed</text>
+<text x="85" y="582" fill="#A7A7B5" font-size="17">applications and services.</text>
+<text x="85" y="632" fill="#C084FC" font-family="monospace" font-size="14">MYSQL • POSTGRES • MONGO • SUPABASE</text>
+
+<rect x="625" y="425" width="520" height="245" rx="18" fill="#0B0715" stroke="#34D399" stroke-width="2"/>
+<text x="655" y="475" fill="#34D399" font-size="18" font-family="monospace" font-weight="700">04 / SYSTEMS</text>
+<text x="655" y="515" fill="#fff" font-size="28" font-weight="800">CLOUD &amp; DEVOPS</text>
+<text x="655" y="555" fill="#A7A7B5" font-size="17">Deployment, containers, Linux</text>
+<text x="655" y="582" fill="#A7A7B5" font-size="17">and infrastructure experiments.</text>
+<text x="655" y="632" fill="#34D399" font-family="monospace" font-size="14">GIT • DOCKER • LINUX • VERCEL</text>
+</g>
+</svg>
